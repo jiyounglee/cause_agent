@@ -13,3 +13,6 @@ resources/public/img/
 resources/public/js/
 src/.DS_Store
 src/clj/.DS_Store
+
+/.lein-failures
+/.lein-env
